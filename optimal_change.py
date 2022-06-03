@@ -53,6 +53,5 @@ def optimal_change(item_cost,amount_paid):
     return answer   
 
 
-print(optimal_change(62.13, 100))
       
 
